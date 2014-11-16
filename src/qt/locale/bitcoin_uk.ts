@@ -1407,7 +1407,7 @@ Address: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>The address to send the payment to (e.g. BAtv5ZtYNqLj9rDYHoLMbVkzURE9SC49U8)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1448,8 +1448,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Bollywoodcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введіть адресу Bollywoodcoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Bollywoodcoin address (e.g. BAtv5ZtYNqLj9rDYHoLMbVkzURE9SC49U8)</source>
+        <translation>Введіть адресу Bollywoodcoin (наприклад BAtv5ZtYNqLj9rDYHoLMbVkzURE9SC49U8)</translation>
     </message>
 </context>
 <context>
@@ -1471,8 +1471,8 @@ Address: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введіть адресу Bollywoodcoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. BAtv5ZtYNqLj9rDYHoLMbVkzURE9SC49U8)</source>
+        <translation>Введіть адресу Bollywoodcoin (наприклад BAtv5ZtYNqLj9rDYHoLMbVkzURE9SC49U8)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1544,8 +1544,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введіть адресу Bollywoodcoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. BAtv5ZtYNqLj9rDYHoLMbVkzURE9SC49U8)</source>
+        <translation>Введіть адресу Bollywoodcoin (наприклад BAtv5ZtYNqLj9rDYHoLMbVkzURE9SC49U8)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1565,8 +1565,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Bollywoodcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Введіть адресу Bollywoodcoin (наприклад Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Bollywoodcoin address (e.g. BAtv5ZtYNqLj9rDYHoLMbVkzURE9SC49U8)</source>
+        <translation>Введіть адресу Bollywoodcoin (наприклад BAtv5ZtYNqLj9rDYHoLMbVkzURE9SC49U8)</translation>
     </message>
     <message>
         <location line="-2"/>
