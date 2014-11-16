@@ -9,7 +9,7 @@
 #include "sync.h"
 #include "net.h"
 #include "script.h"
-#include "scrypt.h"
+#include "hashblock.h"
 
 #include <list>
 
@@ -1373,9 +1373,7 @@ public:
 
     uint256 GetPoWHash() const
     {
-        uint256 thash;
-        scrypt_1024_1_1_256(BEGIN(nVersion), BEGIN(thash));
-        return thash;
+        return Hash9(BEGIN(nVersion), END(nNonce));
     }
 
     CBlockHeader GetBlockHeader() const
