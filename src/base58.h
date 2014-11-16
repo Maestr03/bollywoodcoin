@@ -272,9 +272,9 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 48, // Bollywoodcoin addresses start with L
+        PUBKEY_ADDRESS = 25, // Bollywoodcoin addresses start with B
         SCRIPT_ADDRESS = 5,
-        PUBKEY_ADDRESS_TEST = 111,
+        PUBKEY_ADDRESS_TEST = 65,
         SCRIPT_ADDRESS_TEST = 196,
     };
 
