@@ -1093,7 +1093,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
 }
 
 static const int64 nTargetTimespan = 3.5 * 24 * 60 * 60; // Bollywoodcoin: 3.5 days
-static const int64 nTargetSpacing = 2.5 * 60; // Bollywoodcoin: 2.5 minutes
+static const int64 nTargetSpacing = 60; // Bollywoodcoin: 1 minute
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //
