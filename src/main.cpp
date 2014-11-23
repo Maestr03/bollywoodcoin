@@ -1087,10 +1087,7 @@ uint256 static GetOrphanRoot(const CBlockHeader* pblock)
 
 int64 static GetBlockValue(int nHeight, int64 nFees)
 {
-    int64 nSubsidy = 50 * COIN;
-
-    // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 840000); // Bollywoodcoin: 840k blocks in ~4 years
+    int64 nSubsidy = 10 * COIN;
 
     return nSubsidy + nFees;
 }
